@@ -1,0 +1,22 @@
+{
+  "name": "kariri",
+  "version": "1.0.0",
+  "description": "Site for kariri",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plajuan/kariri.git"
+  },
+  "keywords": [
+    "kariri"
+  ],
+  "author": "Juan Pla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/plajuan/kariri/issues"
+  },
+  "homepage": "https://github.com/plajuan/kariri#readme"
+}
